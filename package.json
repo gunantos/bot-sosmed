@@ -1,0 +1,23 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "description": "Bot whatsapp dan telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gunantos/bot-sosmed.git"
+  },
+  "keywords": [
+    "bot",
+    "sosial-media"
+  ],
+  "author": "gunantos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunantos/bot-sosmed/issues"
+  },
+  "homepage": "https://github.com/gunantos/bot-sosmed#readme"
+}
